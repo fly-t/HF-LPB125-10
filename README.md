@@ -49,7 +49,10 @@
 
 第一次上电发送啥AT指令都不好使.
 
-使用串口发送"+++"不带换行!!!. 发送两次有一定间隔发送.串口回复a就表示可以使用了. 傻x行为
+使用串口发送"+++"不带换行!!!. 发送两次有一定间隔发送.串口回复a就表示可以使用了. 傻x行为. 辟谣了, 尴尬了, 看了文档还是可以的, 不会用, 主要还是升级文档和工具真的太烂了. 
+
+![](https://raw.githubusercontent.com/fly-t/images/main/blog/README-2024-09-04-09-30-53.png)
+
 
 
 ![](https://raw.githubusercontent.com/fly-t/images/main/blog/README-2024-09-03-18-32-12.png)
